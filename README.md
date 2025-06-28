@@ -4,7 +4,7 @@
 
 ## PROJECT OVERVIEW
 
-Este proyecto implementa un data warehouse en un entorno real de producción, siguiendo los procesos ETL/ELT para transformar datos sin procesar en información empresarial de negocios útil.
+This project implements a data warehouse in a real production environment, following ETL/ELT processes to transform raw data into useful business information.
 
 This project involves:
 
