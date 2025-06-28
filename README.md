@@ -1,4 +1,3 @@
-# sql-data-warehouse-project
 # DATA WAREHOUSE PROJECT
 
 **FROM SCRATCH**
